@@ -26,7 +26,6 @@
 @snapend
 
 @snap[list-content-concise]
-@size[0.5em]
 <br>
 @ol[list-bullets-black](false)
 - 이름: 김하늘
@@ -60,7 +59,7 @@
 @snap[list-content-concise]
 <br>
 @ol[list-bullets-black](false)
-@size[32]- 이름: 김준영
+@size[0.4em]- 이름: 김준영
 <br>
 - 별명: 징징이
 <br>
