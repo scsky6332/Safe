@@ -73,7 +73,9 @@
 <img src="http://pds.joins.com/news/component/htmlphoto_mmdata/201810/03/797cb2a4-5b62-4f20-b5dd-4f72113920b6.jpg" width=500></img>
 
 ---?image=images/ssafy_bg.png
+@snap[north title-top]
 # 연말계획
+@snapend
 ### 김하늘 - 가족과 외식
 ### 임성호 - 가족들과 벌교맛집에서 
 ### 꼬막비빔밥 먹기
