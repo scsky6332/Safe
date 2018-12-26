@@ -17,17 +17,28 @@
 
 
 
----?image=images/ssafy_bg.png @title[목표]
+---?image=images/ssafy_bg.png
+@title[목표]
+
+@snap[north title-top]
+성격
+@snapend
 # 이름: 김하늘
 ## 별명: 하늘하늘
 ## 성격: 긍정적, 여유로움
 
 +++
+@snap[north title-top]
+성격
+@snapend
 # 이름: 임성호
 ## 별명: 사막 여우
 ## 성격: 긍정적, 따뜻함 
 
 +++
+@snap[north title-top]
+성격
+@snapend
 # 이름: 김준영
 ## 별명: 징징이
 ## 성격: 느긋함, 자기애 
