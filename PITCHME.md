@@ -11,7 +11,7 @@
 ---
 # 이름: 김준영
 ## 별명: 징징이
-## 성격: 
+## 성격: 느긋함, 자기애 
 
 ---
 <img src="http://cdnweb01.wikitree.co.kr/webdata/editor/201810/01/img_20181001105332_9c73fcd8.jpg" width=600></img>
