@@ -3,7 +3,7 @@
 
 @snap[title-main text-black]
 <br>
-<br>
+<br><br>
 2반_SAFE (김하늘, 임성호, 김준영)
 @snapend
 
