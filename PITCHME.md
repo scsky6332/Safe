@@ -3,6 +3,7 @@
 
 @snap[title-main text-black]
 <br>
+<br>
 2반_SAFE (김하늘, 임성호, 김준영)
 @snapend
 
@@ -21,7 +22,7 @@
 @title[목표]
 
 @snap[north title-top text-blue]
-팀원들의 이름과 별명, 성격
+팀원들의 소개
 @snapend
 
 @snap[list-content-concise]
