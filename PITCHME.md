@@ -66,7 +66,7 @@
 
 ---?image=images/ssafy_bg.png
 
-@snap[north title-top text-green]
+@snap[north title-top text-yellow]
 잘 나타낼 수 있는 사진 
 @snapend
 
