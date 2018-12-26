@@ -13,5 +13,6 @@
 ## 별명:
 ## 성격:
 
-![Alt text](/열정1.jpg)
-![Alt text](/열정2.jpg)
+---
+<img width="300" height="">![Alt text](Safe/열정1.jpg)
+![Alt text](Safe/열정2.jpg)</img>
