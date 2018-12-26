@@ -3,7 +3,7 @@ title: "Topic1 - 1주차 리뷰!"
 date: 2018-12-26
 ---
 
-# [1주차 Reflection] Design Thinking 방법론
+# Design Thinking 방법론
 
 |단계|정의|활용 Tool|
 |:--------:|---------|------------|
