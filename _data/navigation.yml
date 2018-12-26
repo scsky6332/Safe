@@ -1,3 +1,7 @@
 main:
-  title: about us
-  url: https://gitpitch.com/scsky6332/Safe
+  - title: Markdown 문법
+    url: /Markdown-Table/
+  - title: GitPitch 문법
+    url: /GitPitch-Table/
+  - title: GitPitch 예제
+    url: https://gitpitch.com/scsky6332/Safe
