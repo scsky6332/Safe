@@ -27,7 +27,7 @@
 ## 별명: 하늘하늘
 ## 성격: 긍정적, 여유로움
 
-+++
++++?image=images/ssafy_bg.png
 @snap[north title-top]
 성격
 @snapend
@@ -35,7 +35,7 @@
 ## 별명: 사막 여우
 ## 성격: 긍정적, 따뜻함 
 
-+++
++++?image=images/ssafy_bg.png
 @snap[north title-top]
 성격
 @snapend
