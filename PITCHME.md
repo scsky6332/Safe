@@ -60,7 +60,7 @@
 @snap[list-content-concise]
 <br>
 @ol[list-bullets-black](false)
-@size[0.4em]-이름: 김준영
+- 이름: 김준영
 <br>
 - 별명: 징징이
 <br>
