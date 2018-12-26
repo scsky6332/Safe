@@ -29,7 +29,9 @@
 <br>
 @ol[list-bullets-black](false)
 - 이름: 김하늘
+<br>
 - 별명: 하늘하늘
+<br>
 - 성격: 긍정적, 여유로움
 @olend
 <br><br>
@@ -42,7 +44,9 @@
 <br>
 @ol[list-bullets-black](false)
 - 이름: 임성호
+<br>
 - 별명: 사막 여우
+<br>
 - 성격: 긍정적, 따뜻함 
 @olend
 <br><br>
@@ -55,8 +59,8 @@
 @snap[list-content-concise]
 <br>
 @ol[list-bullets-black](false)
-- 이름: 김준영
-- 별명: 징징이
+- 이름: 김준영<br>
+- 별명: 징징이<br>
 - 성격: 느긋함, 자기애 
 @olend
 <br><br>
