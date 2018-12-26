@@ -3,7 +3,7 @@
 
 @snap[title-main text-black]
 <br>
-Git과 markdown을 잘 활용해보자!
+2반_SAFE (김하늘, 임성호, )
 @snapend
 
 @snap[title-sub text-gray]
