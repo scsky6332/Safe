@@ -14,5 +14,6 @@
 ## 성격:
 
 ---
+<img src=열정1.jpg></img>
 ![title](열정1.jpg){:width="100" height="100"} 
 ![Alt text](열정2.jpg)
