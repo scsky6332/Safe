@@ -26,6 +26,7 @@
 @snapend
 
 @snap[list-content-concise]
+@size[0.5em]
 <br>
 @ol[list-bullets-black](false)
 - 이름: 김하늘
