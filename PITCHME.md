@@ -7,7 +7,7 @@ Git과 markdown을 잘 활용해보자! @snapend
 
 @snap[title-main text-black] https://gitpitch.com/scsky6322/Safe @snapend
 
----
+---?image=images/ssafy_bg.png @title[목표]
 # 이름: 김하늘
 ## 별명: 하늘하늘
 ## 성격: 긍정적, 여유로움
