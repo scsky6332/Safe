@@ -83,7 +83,7 @@
 
 ---?image=images/ssafy_bg.png
 @snap[north title-top text-blue]
-연말계획
+< 연말계획 >
 @snapend
 @snap[title-sub]
 연말 계획 및 12월 31일에 하고 싶은 것
@@ -92,11 +92,11 @@
 @snap[list-content-verbose]
 <br>
 @ul[](false)
-* 김하늘 - 가족들과 만두 빚기
+#### * 김하늘 - 가족들과 만두 빚기
 <br>
-* 임성호 - 가족들과 벌교맛집에서 꼬막비빔밥 먹기
+#### * 임성호 - 가족들과 벌교맛집에서 꼬막비빔밥 먹기
 <br>
-* 김준영 - 목포대교에서 일출보기
+#### * 김준영 - 목포대교에서 일출보기
 @ulend
 <br><br>
 @snapend
