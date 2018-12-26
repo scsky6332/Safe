@@ -5,7 +5,7 @@ Git과 markdown을 잘 활용해보자! @snapend
 
 @snap[title-sub text-gray] @size[0.4em](Let's take advantages of Git and Markdown) @snapend
 
-@snap[title-main text-black] https://gitpitch.com/scsky6322/Safe @snapend
+@snap[title-main text-black] https://gitpitch.com/scsky6332/Safe @snapend
 
 ---?image=images/ssafy_bg.png @title[목표]
 # 이름: 김하늘
