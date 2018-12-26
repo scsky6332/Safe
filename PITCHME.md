@@ -39,17 +39,33 @@
 @snap[north title-top]
 성격
 @snapend
-# 이름: 임성호
-## 별명: 사막 여우
-## 성격: 긍정적, 따뜻함 
+@snap[list-content-concise]
+<br>
+@ol[list-bullets-black](false)
+- 이름: 임성호
+- 별명: 사막 여우
+- 성격: 긍정적, 따뜻함 
+@olend
+<br><br>
+@snapend
+
 
 +++?image=images/ssafy_bg.png
 @snap[north title-top]
 성격
 @snapend
-# 이름: 김준영
-## 별명: 징징이
-## 성격: 느긋함, 자기애 
+@snap[list-content-concise]
+<br>
+@ol[list-bullets-black](false)
+- 이름: 김준영
+- 별명: 징징이
+- 성격: 느긋함, 자기애 
+@olend
+<br><br>
+@snapend
+
+
+
 
 ---
 <img src="http://cdnweb01.wikitree.co.kr/webdata/editor/201810/01/img_20181001105332_9c73fcd8.jpg" width=500></img>
