@@ -14,5 +14,5 @@
 ## 성격:
 
 ---
-<img width="300" height="">![Alt text](Safe/열정1.jpg)
-![Alt text](Safe/열정2.jpg)</img>
+<img width="300" height="">![Alt text](Safe/열정1.jpg) </img>
+<img width="300" height="">![Alt text](Safe/열정2.jpg)</img>
