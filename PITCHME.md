@@ -65,9 +65,11 @@
 
 
 ---?image=images/ssafy_bg.png
-@snap[north title-top]
+
+@snap[north title-top text-green]
 잘 나타낼 수 있는 사진 
 @snapend
+
 <img src="http://cdnweb01.wikitree.co.kr/webdata/editor/201810/01/img_20181001105332_9c73fcd8.jpg" width=450 height=450></img>
 <img src="http://pds.joins.com/news/component/htmlphoto_mmdata/201810/03/797cb2a4-5b62-4f20-b5dd-4f72113920b6.jpg" width=450 height=450></img>
 
