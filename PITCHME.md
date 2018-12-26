@@ -12,7 +12,7 @@
 
 
 @snap[title-main text-black]
-[https://gitpitch.com/ssafy2018/public](https://gitpitch.com/ssafy2018/public)
+[https://scsky6332.github.io/Safe/]
 @snapend
 
 
