@@ -44,9 +44,9 @@
 @snap[list-content-concise]
 <br>
 @ol[list-bullets-black](false)
-- 이름: 임성호
+- ####이름: 임성호
 <br>
-- 별명: 사막 여우
+####- 별명: 사막 여우
 <br>
 - 성격: 긍정적, 따뜻함 
 @olend
