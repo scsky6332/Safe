@@ -1,7 +1,6 @@
----
-permalink: /Topic1/
+'''
 title: "Topic - 1주차 리뷰"
----
+'''
 
 # [1주차 Reflection] Design Thinking 방법론
 
