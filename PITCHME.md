@@ -22,7 +22,7 @@
 @title[목표]
 
 @snap[north title-top text-blue]
-팀원들의 소개
+< 팀원들의 소개 >
 @snapend
 
 @snap[list-content-concise]
@@ -75,7 +75,7 @@
 ---?image=images/ssafy_bg.png
 
 @snap[north title-top text-blue]
-잘 나타낼 수 있는 사진 
+< 잘 나타낼 수 있는 사진 > 
 @snapend
 
 <img src="http://cdnweb01.wikitree.co.kr/webdata/editor/201810/01/img_20181001105332_9c73fcd8.jpg" width=450 height=450></img>
