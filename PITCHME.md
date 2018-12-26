@@ -20,9 +20,10 @@
 ---?image=images/ssafy_bg.png
 @title[목표]
 
-@snap[north title-top]
+@snap[north title-top text-blue]
 팀원들의 이름과 별명, 성격
 @snapend
+
 @snap[list-content-concise]
 <br>
 @ol[list-bullets-black](false)
@@ -71,7 +72,7 @@
 <img src="http://pds.joins.com/news/component/htmlphoto_mmdata/201810/03/797cb2a4-5b62-4f20-b5dd-4f72113920b6.jpg" width=450 height=450></img>
 
 ---?image=images/ssafy_bg.png
-@snap[north title-top]
+@snap[north title-top text-blue]
 연말계획
 @snapend
 @snap[title-sub]
