@@ -1,22 +1,22 @@
 ---
-title: "Welcome to Jekyll!"
-date: 2017-10-20 08:26:28 -0400
-categories: jekyll update
+title: "Topic1 - 1주차 리뷰!"
+date: 2018-12-26
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+# [1주차 Reflection] Design Thinking 방법론
 
-Jekyll also offers powerful support for code snippets:
-
-​```python
-def print_hi(name):
-  print("hello", name)
-print_hi('Tom')
-​```
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+|단계 |정의|활용 Tool|
+|-----|----|--------|
+|공감<br>(empathize)|관찰, 인터뷰, 체험으로 문제점을 발견하는 단계|1. 공감지도:<br> 새로운 관점에서 관찰하는 기법|
+|||2. 고객여정맵: <br> 서비스를 이용하는 과정을 그림이나 사진, 도표 등으로 나타내어 시각화하는 기법|
+|||3. 페르소나: <br> 구체적이고 명확한 대상을 정하는 기법|
+|문제정의<br>(Define)|문제점에 대해 정의하고 분석하는 단계||
+|아이디어 도출<br>(Ideate)|아이디어를 자유롭게 발산하는 과정|1.문제해결을 위한 아이디어 도출|
+|||2. 도출된 아이디어 심화와 선정|
+|||3. 아이디어 설명|
+|||4. 아이디어 공유와 피드백|
+|시제품 제작<br>(Prototype)|아이디어를 구현하는 과정|Mockup Tool|
+|||1. Justmind: 웹사이트 및 모바일 앱 제작을 위한 와이어프레임 프로토타이핑 툴|
+|||2. Balsamiq: 웹, 모바일 기획과 스토리 보드 작업이 가능한 프로토타이핑 툴|
+|||3. Adobe XD: 웹사이트, 모바일 앱, 음성 인터랙션, 터치스크린 등 사용자 경험기반 프로토타입 디자인 툴|
+|테스트<br>(Test)|피드백을 통해 아이디어를 개선하는 과정||
