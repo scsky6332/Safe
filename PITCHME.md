@@ -1,11 +1,21 @@
----?image=images/ssafy_main.png @title[Git과 markdown을 잘 활용해보자!]
+---?image=images/ssafy_main.png
+@title[Git과 markdown을 잘 활용해보자!]
 
-@snap[title-main text-black] 
-Git과 markdown을 잘 활용해보자! @snapend
+@snap[title-main text-black]
+<br>
+Git과 markdown을 잘 활용해보자!
+@snapend
 
-@snap[title-sub text-gray] @size[0.4em](Let's take advantages of Git and Markdown) @snapend
+@snap[title-sub text-gray]
+@size[0.4em](Let's take advantages of Git and Markdown)
+@snapend
 
-@snap[title-main text-black] https://gitpitch.com/scsky6332/Safe @snapend
+
+@snap[title-main text-black]
+[https://gitpitch.com/ssafy2018/public](https://gitpitch.com/ssafy2018/public)
+@snapend
+
+
 
 ---?image=images/ssafy_bg.png @title[목표]
 # 이름: 김하늘
