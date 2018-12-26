@@ -23,9 +23,17 @@
 @snap[north title-top]
 성격
 @snapend
-# 이름: 김하늘
-## 별명: 하늘하늘
-## 성격: 긍정적, 여유로움
+@snap[list-content-concise]
+<br>
+@ol[list-bullets-black](false)
+- 이름: 김하늘
+- 별명: 하늘하늘
+- 성격: 긍정적, 여유로움
+@olend
+<br><br>
+@snapend
+
+@fa[arrow-down text-black]
 
 +++?image=images/ssafy_bg.png
 @snap[north title-top]
