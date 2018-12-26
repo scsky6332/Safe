@@ -66,7 +66,7 @@
 
 ---?image=images/ssafy_bg.png
 
-@snap[north title-top text-skyblue]
+@snap[north title-top text-blue]
 잘 나타낼 수 있는 사진 
 @snapend
 
@@ -85,8 +85,7 @@
 <br>
 @ul[](false)
 * 김하늘 - 가족과 외식
-* 임성호 - 가족들과 벌교맛집에서 
-* 꼬막비빔밥 먹기
+* 임성호 - 가족들과 벌교맛집에서 꼬막비빔밥 먹기
 * 김준영 - 목포대교에서 일출보기
 @ulend
 <br><br>
