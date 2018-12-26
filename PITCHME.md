@@ -14,5 +14,5 @@
 ## 성격:
 
 ---
-![Alt text](열정1.jpg) 
+![image](열정1.jpg) 
 ![Alt text](열정2.jpg)
