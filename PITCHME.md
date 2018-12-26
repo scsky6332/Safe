@@ -49,6 +49,7 @@
 <br><br>
 @snapend
 
+@fa[arrow-down text-black]
 
 +++?image=images/ssafy_bg.png
 @snap[north title-top]
