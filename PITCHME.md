@@ -92,6 +92,7 @@
 @snap[list-content-verbose]
 <br>
 @ul[](false)
+<br>
 #### * 김하늘 - 가족들과 만두 빚기
 <br>
 #### * 임성호 - 가족들과 벌교맛집에서 꼬막비빔밥 먹기
