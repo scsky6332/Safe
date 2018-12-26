@@ -29,7 +29,7 @@
 @size[0.6em]
 <br>
 @ol[list-bullets-black](false)
-- ####**이름: 김하늘
+- ####**이름: 김하늘**
 <br>
 - ####별명: 하늘하늘
 <br>
